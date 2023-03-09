@@ -74,12 +74,12 @@ const config = {
           {
             href: "https://esme.team/",
             position: "right",
-            label: "💬 Наш сайт,
+            label: "💬 Наш сайт",
           },
           {
             href: "https://t.me/markoffkin_bot",
             position: "right",
-            label: "💬 Телеграм,
+            label: "💬 Телеграм",
           },
           {
             href: "https://discord.gg/j7PKU5WU6y",
