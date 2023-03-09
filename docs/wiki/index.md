@@ -1,6 +1,6 @@
 ---
 slug: /
-title: ❤️ Документация ESME HUD
+title: Документация ESME HUD
 sidebar_position: 1
 ---
 

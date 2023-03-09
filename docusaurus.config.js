@@ -64,16 +64,27 @@ const config = {
           alt: 'Лого',
           src: 'img/axolotl.svg',
         },
+        announcementBar: {
+          id: 'announcementBar-1',
+          content:
+          `⭐️ Если вам нравится ESME HUD, то посетите наш <a target="_blank" rel="noopener noreferrer" href="https://esme.team/">сайт</a> и подпишитесь в <a target="_blank" rel="noopener noreferrer" href="https://vk.com/esmesports/">ВКонтакте ⭐️</a>`,
+          isCloseable: false,
+        },
         items: [
+          {
+            href: "https://esme.team/",
+            position: "right",
+            label: "💬 Наш сайт,
+          },
           {
             href: "https://t.me/markoffkin_bot",
             position: "right",
-            label: "💬 Telegram",
+            label: "💬 Телеграм,
           },
           {
             href: "https://discord.gg/j7PKU5WU6y",
             position: "right",
-            label: "🔊 Discord",
+            label: "🔊 Дискорд",
           },
         ],
       },
