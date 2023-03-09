@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Mirele Wiki',
-  tagline: 'Вики по майнкарфт серверу!)',
-  url: 'https://mcmirele.esme.team',
+  title: 'ESME HUD Docs',
+  tagline: 'испортс солюшнс.',
+  url: 'https://hud-docs.esme.team',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'markovvii', // Usually your GitHub org/user name.
-  projectName: 'mc-mirele-wiki', // Usually your repo name.
+  projectName: 'esme-hud-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -59,7 +59,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Вики Mirele MC',
+        title: 'Документация ESME HUD',
         logo: {
           alt: 'Лого',
           src: 'img/axolotl.svg',
