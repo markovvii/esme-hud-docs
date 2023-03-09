@@ -85,8 +85,10 @@ const config = {
       announcementBar: {
         id: 'announcementBar-1',
         content:
-        `⭐️ Если вам нравится ESME HUD, то посетите наш <a target="_blank" rel="noopener noreferrer" href="https://esme.team/">сайт</a> и подпишитесь в <a target="_blank" rel="noopener noreferrer" href="https://vk.com/esmesports/">ВКонтакте ⭐️</a>`,
+        `⭐️ Если вам нравится ESME HUD, то посетите наш <a target="_blank" rel="noopener noreferrer" href="https://esme.team/">сайт</a> и подпишитесь в <a target="_blank" rel="noopener noreferrer" href="https://vk.com/esmesports/">ВКонтакте</a> ⭐️`,
         isCloseable: false,
+        backgroundColor: '#f1f1f1',
+        textColor: '#252841',
       },
       prism: {
         theme: lightCodeTheme,
