@@ -64,12 +64,6 @@ const config = {
           alt: 'Лого',
           src: 'img/axolotl.svg',
         },
-        announcementBar: {
-          id: 'announcementBar-1',
-          content:
-          `⭐️ Если вам нравится ESME HUD, то посетите наш <a target="_blank" rel="noopener noreferrer" href="https://esme.team/">сайт</a> и подпишитесь в <a target="_blank" rel="noopener noreferrer" href="https://vk.com/esmesports/">ВКонтакте ⭐️</a>`,
-          isCloseable: false,
-        },
         items: [
           {
             href: "https://esme.team/",
@@ -87,6 +81,12 @@ const config = {
             label: "🔊 Дискорд",
           },
         ],
+      },
+      announcementBar: {
+        id: 'announcementBar-1',
+        content:
+        `⭐️ Если вам нравится ESME HUD, то посетите наш <a target="_blank" rel="noopener noreferrer" href="https://esme.team/">сайт</a> и подпишитесь в <a target="_blank" rel="noopener noreferrer" href="https://vk.com/esmesports/">ВКонтакте ⭐️</a>`,
+        isCloseable: false,
       },
       prism: {
         theme: lightCodeTheme,
