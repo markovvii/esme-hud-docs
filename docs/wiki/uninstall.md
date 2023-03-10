@@ -1,15 +1,7 @@
 ---
-title: Установка & первое использование
-sidebar_position: 2
+title: Деинсталляция
+sidebar_position: 3
 ---
-
-## Установка
-
-1. Вам необходимо заранее получить установщик [ESME HUD](https://t.me/markoffkin_bot)
-2. Скачайте и установите [шрифт](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1ZxMg9WpH-Tg2UMCY996CcjMAEwX17iIa)
-3. Скачайте [конфиги](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=15Sc3EVqy0SLJtu7C92oD5teaiwkvtoc7) и копируйте их в каталог CS:GO `cfg`, обычно это `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
-4. Запустите CS:GO и используйте команду `exec esme` в консоли CS:GO
-5. Присоединитесь к матчу в качестве спектатора, откройте GOTV-стрим или начните воспроизведение демо-записи. Если вы не видите HUD, ознакомьтесь с советами по устранению неполадок ниже. Также ознакомьтесь с примечаниями для получения дополнительных рекомендаций
 
 ## Удаление ESME HUD
 
@@ -32,6 +24,3 @@ sidebar_position: 2
 
 - Удалите `%APPDATA%\ESME HUD`
 - Удалите `%LOCALAPPDATA%\ESME HUD`
-
-## Следующие шаги
-
