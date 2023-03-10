@@ -1,4 +1,4 @@
 ---
-title: 🗻 Как зайти с Bedrock
+title: Как зайти с Bedrock
 sidebar_position: 5
 ---

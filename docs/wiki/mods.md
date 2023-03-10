@@ -1,5 +1,5 @@
 ---
-title: ⚒️ Моды для сервера
+title: Моды для сервера
 sidebar_position: 2
 ---
 
