@@ -1,6 +1,6 @@
 ---
 title: Конфигурация
-sidebar_position: 5
+sidebar_position: 4
 ---
 
 ## Конфигурация ESME HUD
